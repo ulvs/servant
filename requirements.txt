@@ -1,0 +1,7 @@
+
+
+numpy
+pandas
+pyside6
+requests
+qtm
